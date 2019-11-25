@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet type="text/css" href="5.css" ?> 
+<html> 
+<head> 
+<h1>  STUDENTS DESCRIPTION </h1> </head> 
+<students> 
+<student> 
+<USN>USN        :   1KS15CS001</USN> 
+<name>NAME      :   ABC</name>
+<college>COLLEGE:   KSIT</college> 
+<branch>BRANCH  :   Computer Science and Engineering</branch> 
+<year>YEAR      :   2015</year> 
+<e-mail>E-Mail  :   ABC@gmail.com</e-mail> 
+</student> <student>  
+<USN>USN        :   1KS15ME001</USN> 
+<name>NAME      :   XYZ</name>
+<college>COLLEGE:   KSIT</college> 
+<branch>BRANCH  :   Mechanical Engineering</branch>
+<year>YEAR      :   2015</year> 
+<e-mail>E-Mail  :   XYZ@gmail.com</e-mail> 
+</student>
+ <student>  
+<USN>USN        :   1KS15EC001</USN> 
+<name>NAME      :   WTA</name> 
+<college>COLLEGE:   KSIT</college>
+<branch>BRANCH   : Electronics and Communication Engineering </branch> 
+<year>YEAR       :   2015</year> 
+<e-mail>E-Mail   :   WTA@gmail.com</e-mail> 
+</student> 
+</students>
+</html> 
